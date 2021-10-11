@@ -1,5 +1,14 @@
 # Paint
-An Android app to draw something on a canvas and save them <br>
+An Android app to draw something on a canvas and save them
 
-Download it here <br>
-<a href='https://play.google.com/store/apps/details?id=com.vs.paint&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+## Installation
+Clone this repository and import into **Android Studio** <br>
+Fork it
+```bash
+git clone https://github.com/<User-Name>/Paint
+```
+
+## Contributing
+1. Fork it
+2. Commit your changes (git commit -m 'Add some feature')
+3. Create a new Pull Request
